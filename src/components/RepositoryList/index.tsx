@@ -14,6 +14,13 @@ interface State {
 }
 
 export default class RepositoryList extends Component<Props, State> {
+
+    state = {
+        newRepository: '',
+    }
+
+    componentDidMount() {}
+
     render() {
         const { repositories } = this.props;
         const { newRepository } = this.state;
