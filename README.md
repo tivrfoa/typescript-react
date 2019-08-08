@@ -1,3 +1,7 @@
+https://github.com/Rocketseat/youtube-typescript-reactjs
+
+https://www.youtube.com/watch?v=OXxul6AvXNs
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
